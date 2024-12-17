@@ -2,8 +2,8 @@
 // *** Classificador de Nível de Herói ***
 
 let nivel;
-let nome = "UltraSeven";
-let xp = 9000;
+let nome = "Sombra";
+let xp = 10000;
   
 	if (xp < 1000) {
 	  nivel = "Ferro";
